@@ -61,9 +61,10 @@ Performance may vary depending on system specs and CPU thread count.
 
 ---
 
-Project Files
-	•	🔹 src/ – C++ source code files
-	•	📄 report/ – Documentation and performance report
+## Project Files
+
+- [src/](./src/) – C++ source code files  
+- [report/](./report/) – Documentation and performance report  
  
 ---
 
