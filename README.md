@@ -61,5 +61,11 @@ Performance may vary depending on system specs and CPU thread count.
 
 ---
 
+Project Files
+	•	🔹 src/ – C++ source code files
+	•	📄 report/ – Documentation and performance report
+ 
+---
+
 Mehlika Rana Akbay
 BSc. Software Engineering – UE Germany
