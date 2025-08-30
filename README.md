@@ -65,7 +65,15 @@ Performance may vary depending on system specs and CPU thread count.
 
 - [src/](./src/) – C++ source code files  
 - [report/](./report/) – Documentation and performance report  
- 
+
+
+### Download Binary
+
+You can download the compiled `.out` file from the [latest release]([https://github.com/mehlikaakbay/REPO-ADI/releases/latest](https://github.com/mehlikaakbay/heat-equation-solver/releases/latest)) and run it on macOS/Linux:
+
+```bash
+./heat_solver.out
+```
 ---
 
 Mehlika Rana Akbay
