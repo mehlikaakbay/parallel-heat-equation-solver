@@ -69,7 +69,7 @@ Performance may vary depending on system specs and CPU thread count.
 
 ### Download Binary
 
-You can download the compiled `.out` file from the [latest release]([https://github.com/mehlikaakbay/REPO-ADI/releases/latest](https://github.com/mehlikaakbay/heat-equation-solver/releases/latest)) and run it on macOS/Linux:
+You can download the compiled `.out` file from the [latest release](https://github.com/mehlikaakbay/heat-equation-solver/releases/latest) and run it on macOS/Linux:
 
 ```bash
 ./heat_solver.out
