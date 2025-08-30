@@ -48,10 +48,10 @@ g++ -fopenmp -O2 -o heat_solver main.cpp threads.cpp
 ---
 
 ## Performance Example
-Tested with:
-	•	N = 1,000,000 points
-	•	Steps = 20,000
-	•	Threads: 20
+### Tested with:
+- N = 1,000,000 points  
+- Steps = 20,000  
+- Threads = 20
 
 Output:
 Serial Time:   286.674 seconds  
